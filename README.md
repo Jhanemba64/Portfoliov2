@@ -1,4 +1,4 @@
-# Portfolio de Pierrick ONCHALO
+# Portfolio de Pierrick 
 
 Bienvenue sur mon portfolio GitHub ! Ce dépôt contient le code source et les fichiers nécessaires pour mon portfolio personnel.
 
