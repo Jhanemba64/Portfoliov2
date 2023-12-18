@@ -19,22 +19,6 @@ allItemNav.forEach((item) => {
 
 let menuVisible = false;
 
-// function checkScroll() {
-//     if (window.scrollY > window.innerHeight / 2) {
-//         if (!menuVisible) {
-//             btnMenu.style.display = 'block';
-//             menuVisible = true;
-//         }
-//     } else {
-//         if (menuVisible) {
-//             btnMenu.style.display = 'none';
-//             menuVisible = false;
-//         }
-//     }
-// }
-
-// window.addEventListener('scroll', checkScroll);
-
 // Animation écriture
 const txtAnim = document.querySelector(".txt-animation");
 
