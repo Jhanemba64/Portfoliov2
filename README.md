@@ -1,4 +1,4 @@
-# Portfolio de Baptiste CHASSET
+# Portfolio de Pierrick 
 
 Bienvenue sur mon portfolio GitHub ! Ce dépôt contient le code source et les fichiers nécessaires pour mon portfolio personnel.
 
@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio GitHub ! Ce dépôt contient le code source et les f
 
 Ce portfolio a été créé pour mettre en valeur mes compétences en développement web et pour présenter certains de mes projets. Vous y trouverez des informations sur mes compétences techniques, mon expérience professionnelle et mes réalisations.
 
-Visitez mon portfolio en ligne : https://blueeel.github.io/mon-portfolio/
+Visitez mon portfolio en ligne : https://portfoliov2-umber.vercel.app/
 
 ## Contenu
 
@@ -19,8 +19,8 @@ Le portfolio comprend plusieurs sections, notamment :
 
 ## Comment exécuter localement
 
-1. Clonez ce dépôt : `git clone git@github.com:BlueEel/mon-portfolio.git`
-2. Accédez au répertoire du projet : `cd mon-portfolio`
+1. Clonez le dépôt
+2. Accédez au répertoire du projet
 3. Ouvrez le fichier `index.html` dans votre navigateur.
 
 ## Contribuer
